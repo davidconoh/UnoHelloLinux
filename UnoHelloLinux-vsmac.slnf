@@ -1,0 +1,13 @@
+{
+  "solution": {
+    "path": "UnoHelloLinux.sln",
+    "projects": [
+		"UnoHelloLinux.Shared\\UnoHelloLinux.Shared.shproj",
+
+
+		"UnoHelloLinux.Wasm\\UnoHelloLinux.Wasm.csproj",
+
+		"UnoHelloLinux.Skia.Gtk\\UnoHelloLinux.Skia.Gtk.csproj",
+    ]
+  }
+}

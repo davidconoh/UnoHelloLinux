@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Import Project="$(NuGetPackageRoot)uno.sourcegenerationtasks/4.1.0/build/netstandard1.0/Uno.SourceGenerationTasks.targets" Condition="Exists('$(NuGetPackageRoot)uno.sourcegenerationtasks/4.1.0/build/netstandard1.0/Uno.SourceGenerationTasks.targets')" />
+    <Import Project="$(NuGetPackageRoot)uno.winui/4.4.20/buildTransitive/netstandard2.0/uno.winui.targets" Condition="Exists('$(NuGetPackageRoot)uno.winui/4.4.20/buildTransitive/netstandard2.0/uno.winui.targets')" />
+    <Import Project="$(NuGetPackageRoot)uno.winui.runtime.skia.gtk/4.4.20/buildTransitive/Uno.WinUI.Runtime.Skia.Gtk.targets" Condition="Exists('$(NuGetPackageRoot)uno.winui.runtime.skia.gtk/4.4.20/buildTransitive/Uno.WinUI.Runtime.Skia.Gtk.targets')" />
+    <Import Project="$(NuGetPackageRoot)uno.winui.skia.gtk/4.4.20/build/Uno.WinUI.Skia.Gtk.targets" Condition="Exists('$(NuGetPackageRoot)uno.winui.skia.gtk/4.4.20/build/Uno.WinUI.Skia.Gtk.targets')" />
+    <Import Project="$(NuGetPackageRoot)uno.winui.remotecontrol/4.4.20/buildTransitive/Uno.WinUI.RemoteControl.targets" Condition="Exists('$(NuGetPackageRoot)uno.winui.remotecontrol/4.4.20/buildTransitive/Uno.WinUI.RemoteControl.targets')" />
+  </ImportGroup>
+</Project>

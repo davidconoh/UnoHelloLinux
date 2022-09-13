@@ -1,0 +1,83 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/davidconoh/Projects/Uno/UnoHelloLinux/UnoHelloLinux.Skia.Gtk/UnoHelloLinux.Skia.Gtk.csproj": {}
+  },
+  "projects": {
+    "/home/davidconoh/Projects/Uno/UnoHelloLinux/UnoHelloLinux.Skia.Gtk/UnoHelloLinux.Skia.Gtk.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/davidconoh/Projects/Uno/UnoHelloLinux/UnoHelloLinux.Skia.Gtk/UnoHelloLinux.Skia.Gtk.csproj",
+        "projectName": "UnoHelloLinux.Skia.Gtk",
+        "projectPath": "/home/davidconoh/Projects/Uno/UnoHelloLinux/UnoHelloLinux.Skia.Gtk/UnoHelloLinux.Skia.Gtk.csproj",
+        "packagesPath": "/home/davidconoh/.nuget/packages/",
+        "outputPath": "/home/davidconoh/Projects/Uno/UnoHelloLinux/UnoHelloLinux.Skia.Gtk/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/davidconoh/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Logging.Console": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Uno.UI.Adapter.Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[4.4.20, )"
+            },
+            "Uno.WinUI.RemoteControl": {
+              "target": "Package",
+              "version": "[4.4.20, )"
+            },
+            "Uno.WinUI.Skia.Gtk": {
+              "target": "Package",
+              "version": "[4.4.20, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
