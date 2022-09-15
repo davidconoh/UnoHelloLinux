@@ -1,6 +1,8 @@
 # UnoHelloLinux
 Your first Uno application on Linux. Dedicated to all Uno-first events in Nigeria 🇳🇬
 
+![unohellolinux.gif](https://res.cloudinary.com/davidconoh/image/upload/v1663266864/unohellolinux.gif)
+
 ## Introduction
 <a href="https://platform.uno" target="_blank">Uno Platform</a> is the first C# & XAML, free and open-source platform for creating true single-source, multi-platform applications. With Uno Platform, you can empower your existing .NET teams to reuse 99% of the business logic and UI layer to target native mobile, web, and desktop platorms from any development environment — including Linux.
 
