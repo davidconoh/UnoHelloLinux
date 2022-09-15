@@ -69,5 +69,5 @@ Fedora 36 is `6.0.100`, and the required is `6.0.400`. Let me know if you find a
 
 ## Version
 ```
-Version: 0.0.1
+Version: 0.0.2
 ```
