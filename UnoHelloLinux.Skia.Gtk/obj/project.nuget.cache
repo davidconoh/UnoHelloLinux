@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "s3f4pjKVF5qRA3do3jLpsdUyIM6nnBPXruhlGurdBsOsMyZPZdXh6W2+ECrgqmXLCifxU2vdhuBqKfyWkqwkEw==",
+  "dgSpecHash": "EyMD35WQPm4fG1XsAjj51Y9CQRfjETsHOH3Xp674g5MytUqStHytaPJNYE+wLTQhGqDSsFGlPAWfUOgiwxX2Zg==",
   "success": true,
-  "projectFilePath": "/home/davidconoh/Projects/Uno/UnoHelloLinux/UnoHelloLinux.Skia.Gtk/UnoHelloLinux.Skia.Gtk.csproj",
+  "projectFilePath": "/home/davidconoh/Projects/DotNetDev/Uno/UnoHelloLinux/UnoHelloLinux.Skia.Gtk/UnoHelloLinux.Skia.Gtk.csproj",
   "expectedPackageFiles": [
     "/home/davidconoh/.nuget/packages/atksharp/3.24.24.34/atksharp.3.24.24.34.nupkg.sha512",
     "/home/davidconoh/.nuget/packages/cairosharp/3.24.24.34/cairosharp.3.24.24.34.nupkg.sha512",

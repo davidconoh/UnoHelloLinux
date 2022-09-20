@@ -4869,11 +4869,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/davidconoh/Projects/Uno/UnoHelloLinux/UnoHelloLinux.Skia.Gtk/UnoHelloLinux.Skia.Gtk.csproj",
+      "projectUniqueName": "/home/davidconoh/Projects/DotNetDev/Uno/UnoHelloLinux/UnoHelloLinux.Skia.Gtk/UnoHelloLinux.Skia.Gtk.csproj",
       "projectName": "UnoHelloLinux.Skia.Gtk",
-      "projectPath": "/home/davidconoh/Projects/Uno/UnoHelloLinux/UnoHelloLinux.Skia.Gtk/UnoHelloLinux.Skia.Gtk.csproj",
+      "projectPath": "/home/davidconoh/Projects/DotNetDev/Uno/UnoHelloLinux/UnoHelloLinux.Skia.Gtk/UnoHelloLinux.Skia.Gtk.csproj",
       "packagesPath": "/home/davidconoh/.nuget/packages/",
-      "outputPath": "/home/davidconoh/Projects/Uno/UnoHelloLinux/UnoHelloLinux.Skia.Gtk/obj/",
+      "outputPath": "/home/davidconoh/Projects/DotNetDev/Uno/UnoHelloLinux/UnoHelloLinux.Skia.Gtk/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/davidconoh/.nuget/NuGet/NuGet.Config"
