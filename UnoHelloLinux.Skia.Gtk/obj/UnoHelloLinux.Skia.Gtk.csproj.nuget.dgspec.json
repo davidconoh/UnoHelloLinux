@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/davidconoh/Projects/DotNetDev/Uno/UnoHelloLinux/UnoHelloLinux.Skia.Gtk/UnoHelloLinux.Skia.Gtk.csproj": {}
+    "/home/davidconoh/Projects/DotNetDev/Uno/v2/UnoHelloLinux/UnoHelloLinux.Skia.Gtk/UnoHelloLinux.Skia.Gtk.csproj": {}
   },
   "projects": {
-    "/home/davidconoh/Projects/DotNetDev/Uno/UnoHelloLinux/UnoHelloLinux.Skia.Gtk/UnoHelloLinux.Skia.Gtk.csproj": {
+    "/home/davidconoh/Projects/DotNetDev/Uno/v2/UnoHelloLinux/UnoHelloLinux.Skia.Gtk/UnoHelloLinux.Skia.Gtk.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/davidconoh/Projects/DotNetDev/Uno/UnoHelloLinux/UnoHelloLinux.Skia.Gtk/UnoHelloLinux.Skia.Gtk.csproj",
+        "projectUniqueName": "/home/davidconoh/Projects/DotNetDev/Uno/v2/UnoHelloLinux/UnoHelloLinux.Skia.Gtk/UnoHelloLinux.Skia.Gtk.csproj",
         "projectName": "UnoHelloLinux.Skia.Gtk",
-        "projectPath": "/home/davidconoh/Projects/DotNetDev/Uno/UnoHelloLinux/UnoHelloLinux.Skia.Gtk/UnoHelloLinux.Skia.Gtk.csproj",
+        "projectPath": "/home/davidconoh/Projects/DotNetDev/Uno/v2/UnoHelloLinux/UnoHelloLinux.Skia.Gtk/UnoHelloLinux.Skia.Gtk.csproj",
         "packagesPath": "/home/davidconoh/.nuget/packages/",
-        "outputPath": "/home/davidconoh/Projects/DotNetDev/Uno/UnoHelloLinux/UnoHelloLinux.Skia.Gtk/obj/",
+        "outputPath": "/home/davidconoh/Projects/DotNetDev/Uno/v2/UnoHelloLinux/UnoHelloLinux.Skia.Gtk/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/davidconoh/.nuget/NuGet/NuGet.Config"
@@ -75,7 +75,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.403/RuntimeIdentifierGraph.json"
         }
       }
     }

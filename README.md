@@ -1,7 +1,7 @@
 # UnoHelloLinux
 Your first Uno application on Linux. Dedicated to all Uno-first events in Nigeria 🇳🇬
 
-![unohellolinux.gif](https://res.cloudinary.com/davidconoh/image/upload/v1663266864/unohellolinux.gif)
+![unohellolinux.gif](https://res.cloudinary.com/davidconoh/image/upload/v1663266864/indie_projects_render/unohellolinux.gif)
 
 ## 💡 Introduction
 <a href="https://platform.uno" target="_blank">Uno Platform</a> is the first C# & XAML, free and open-source platform for creating true single-source, multi-platform applications. With Uno Platform, you can empower your existing .NET teams to reuse 99% of the business logic and UI layer to target native mobile, web, and desktop platorms from any development environment — including Linux.
@@ -19,9 +19,9 @@ For more information, visit the <a href="https://platform.uno/docs/articles/get-
 
 ## 🕯️ Requirements
 - Fork the <a href="https://github.com/davidconoh/UnoHelloLinux" target="_blank">UnoHelloLinux GitHub repo</a> to your GitHub account.
-- Clone on your local machine: Replace `yourusername` with your GitHub username
+- Clone on your local machine: Replace `<yourusername>` with your GitHub username
   ```
-  git clone https://github.com/yourusername/UnoHelloLinux.git
+  git clone https://github.com/<yourusername>/UnoHelloLinux.git
   ```
 - These are the files relevant for the current project:
   ```
@@ -62,12 +62,12 @@ Licensed under the Apache License, Version 2.0. See <a href="https://github.com/
 
 ## 🚫 Limitations
 The `uno-check` command fails on Fedora 36. The current version of .NET SDK 6 on 
-Fedora 36 is `6.0.100`, and the required is `6.0.400`. Let me know if you find a work around. 
+Fedora 36 is `6.0.111`, and the required is `6.0.400`. Let me know if you find a work around. 
 
 ## 📖 Author
 - <a href="https://github.com/davidconoh" target="_blank">Chika Onoh</a>
 
 ## 📥 Version
 ```
-Version: 0.0.3
+Version: 0.0.3-rawhide
 ```
